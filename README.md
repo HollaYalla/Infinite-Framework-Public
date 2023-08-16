@@ -6,5 +6,5 @@ To make changes to the files, make a pull request and wait for approval. File ch
 
 ## Servers
 
-1 = Infinite Framework Test Server - HollaYalla<br/>
+1 = Infinite Framework Test Server<br/>
 2 = Infinite Roleplay International
